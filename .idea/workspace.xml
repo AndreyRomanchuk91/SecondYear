@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df246722-37a5-4fa0-8f56-03e857fd1c22" name="Changes" comment="Gaussian elemination">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2cLj8E7PgErLcssX2Z2WDfzGmgF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Bisection.executor": "Run",
+    "Python.Exam2.executor": "Run",
+    "Python.Gauss_Seidel.executor": "Debug",
+    "Python.HomeProject1.executor": "Run",
+    "Python.Jacobi&GausseSeidel.executor": "Run",
+    "Python.Jacobi.executor": "Run",
+    "Python.condition_of_linear_equations.executor": "Run",
+    "Python.gaussian_elimination.executor": "Debug",
+    "Python.inverse_matrix.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.scratch_1.executor": "Run",
+    "Python.scratch_2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/roman/Downloads",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\roman\Downloads" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roman\PycharmProjects\SecondYear\Numerical analysis" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df246722-37a5-4fa0-8f56-03e857fd1c22" name="Changes" comment="" />
+      <created>1707897591421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707897591421</updated>
+      <workItem from="1707897597186" duration="3083000" />
+      <workItem from="1707909316386" duration="1799000" />
+      <workItem from="1707913883587" duration="5113000" />
+      <workItem from="1708962891035" duration="3548000" />
+      <workItem from="1710176342635" duration="6547000" />
+      <workItem from="1710674647672" duration="4136000" />
+      <workItem from="1710746052567" duration="3413000" />
+      <workItem from="1710750932891" duration="6726000" />
+      <workItem from="1710764960268" duration="169000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added inverse check &amp; vector b">
+      <option name="closed" value="true" />
+      <created>1707897846551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707897846551</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added inverse check &amp; vector b">
+      <option name="closed" value="true" />
+      <created>1707897898260</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707897898260</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added inverse check &amp; vector b">
+      <option name="closed" value="true" />
+      <created>1707898967226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707898967226</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1707899532725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707899532725</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1707909613102</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707909613102</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1707910121224</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707910121224</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1707910931015</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707910931015</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1708173018224</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708173018224</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1708975305644</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708975305644</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710249571615</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710249571615</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710249611446</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710249611446</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710678994198</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710678994198</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710746939587</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710746939587</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710747168963</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710747168963</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710749057131</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710749057131</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710750878528</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710750878528</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710751821131</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710751821132</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710754878167</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710754878167</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710757362409</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710757362409</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1710764847432</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710764847432</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added inverse check &amp; vector b" />
+    <MESSAGE value="Gaussian elemination" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gaussian elemination" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SecondYear$Jacobi.coverage" NAME="Jacobi Coverage Results" MODIFIED="1710678430544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
+    <SUITE FILE_PATH="coverage/SecondYear$Gauss_Seidel.coverage" NAME="Gauss_Seidel Coverage Results" MODIFIED="1710678799919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
+    <SUITE FILE_PATH="coverage/SecondYear$Exam2.coverage" NAME="Exam2 Coverage Results" MODIFIED="1710764559929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
+    <SUITE FILE_PATH="coverage/SecondYear$scratch_2.coverage" NAME="scratch_2 Coverage Results" MODIFIED="1710754109196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/SecondYear$Bisection.coverage" NAME="Bisection Coverage Results" MODIFIED="1710751764851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
+    <SUITE FILE_PATH="coverage/SecondYear$HomeProject1.coverage" NAME="HomeProject1 Coverage Results" MODIFIED="1708975261015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Principles of software languages" />
+    <SUITE FILE_PATH="coverage/SecondYear$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1710746476516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/SecondYear$Jacobi_GausseSeidel.coverage" NAME="Jacobi&amp;GausseSeidel Coverage Results" MODIFIED="1710758167514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
+    <SUITE FILE_PATH="coverage/SecondYear$condition_of_linear_equations.coverage" NAME="condition_of_linear_equations Coverage Results" MODIFIED="1707909479670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SecondYear$gaussian_elimination.coverage" NAME="gaussian_elimination Coverage Results" MODIFIED="1708248864244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
+    <SUITE FILE_PATH="coverage/SecondYear$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1710756981757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/SecondYear$inverse_matrix.coverage" NAME="inverse_matrix Coverage Results" MODIFIED="1710755869179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
+  </component>
+</project>
