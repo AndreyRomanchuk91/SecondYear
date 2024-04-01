@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df246722-37a5-4fa0-8f56-03e857fd1c22" name="Changes" comment="Gaussian elemination">
+      <change afterPath="$PROJECT_DIR$/Principles of software languages/HomeProject2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,7 @@
     "Python.Exam2.executor": "Run",
     "Python.Gauss_Seidel.executor": "Debug",
     "Python.HomeProject1.executor": "Run",
+    "Python.HomeProject2.executor": "Run",
     "Python.Jacobi&GausseSeidel.executor": "Run",
     "Python.Jacobi.executor": "Run",
     "Python.condition_of_linear_equations.executor": "Run",
@@ -93,6 +95,8 @@
       <workItem from="1710746052567" duration="3413000" />
       <workItem from="1710750932891" duration="6726000" />
       <workItem from="1710764960268" duration="169000" />
+      <workItem from="1710765138929" duration="499000" />
+      <workItem from="1711967693213" duration="5327000" />
     </task>
     <task id="LOCAL-00001" summary="Added inverse check &amp; vector b">
       <option name="closed" value="true" />
@@ -280,7 +284,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SecondYear$Jacobi.coverage" NAME="Jacobi Coverage Results" MODIFIED="1710678430544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
     <SUITE FILE_PATH="coverage/SecondYear$Gauss_Seidel.coverage" NAME="Gauss_Seidel Coverage Results" MODIFIED="1710678799919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
-    <SUITE FILE_PATH="coverage/SecondYear$Exam2.coverage" NAME="Exam2 Coverage Results" MODIFIED="1710764559929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
+    <SUITE FILE_PATH="coverage/SecondYear$Exam2.coverage" NAME="Exam2 Coverage Results" MODIFIED="1710765343614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
     <SUITE FILE_PATH="coverage/SecondYear$scratch_2.coverage" NAME="scratch_2 Coverage Results" MODIFIED="1710754109196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/SecondYear$Bisection.coverage" NAME="Bisection Coverage Results" MODIFIED="1710751764851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
     <SUITE FILE_PATH="coverage/SecondYear$HomeProject1.coverage" NAME="HomeProject1 Coverage Results" MODIFIED="1708975261015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Principles of software languages" />
@@ -289,6 +293,7 @@
     <SUITE FILE_PATH="coverage/SecondYear$condition_of_linear_equations.coverage" NAME="condition_of_linear_equations Coverage Results" MODIFIED="1707909479670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SecondYear$gaussian_elimination.coverage" NAME="gaussian_elimination Coverage Results" MODIFIED="1708248864244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
     <SUITE FILE_PATH="coverage/SecondYear$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1710756981757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/SecondYear$HomeProject2.coverage" NAME="HomeProject2 Coverage Results" MODIFIED="1711972786528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Principles of software languages" />
     <SUITE FILE_PATH="coverage/SecondYear$inverse_matrix.coverage" NAME="inverse_matrix Coverage Results" MODIFIED="1710755869179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
   </component>
 </project>
