@@ -1,7 +1,7 @@
 import numpy as np
 
-
 def romberg_integration(func, a, b, n):
+    counter = 1
     """
     Romberg Integration
 
@@ -15,14 +15,14 @@ def romberg_integration(func, a, b, n):
     float: The approximate definite integral of the function over [a, b].
     """
     h = b - a
-    R = np.zeros((n, n), dtype=float)
+    R = np.zeros((20, 20), dtype=float)
 
     R[0, 0] = 0.5 * h * (func(a) + func(b))
 
-    for i in range(1, n):
+    for i in range(1, 20):
         h /= 2
         sum_term = 0
-
+        counter += 1
         for k in range(1, 2 ** i, 2):
             sum_term += func(a + k * h)
 
@@ -31,17 +31,22 @@ def romberg_integration(func, a, b, n):
         for j in range(1, i + 1):
             R[i, j] = R[i, j - 1] + (R[i, j - 1] - R[i - 1, j - 1]) / ((4 ** j) - 1)
 
+        if np.round(R[i - 1, i - 1], n) == np.round(R[i, i], n):
+            print(counter)
+            return R[i, i]
+
+    print("we have reach maximum iterations {20}")
     return R[n - 1, n - 1]
 
 
 def f(x):
-    return 1/(2+x ** 4)
+    return x**3
 
 
 if __name__ == '__main__':
 
-    a = 0
-    b = 1
+    a = -2
+    b = 2
     n = 5
     integral = romberg_integration(f, a, b, n)
 

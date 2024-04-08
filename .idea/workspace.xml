@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df246722-37a5-4fa0-8f56-03e857fd1c22" name="Changes" comment="Gaussian elemination">
-      <change afterPath="$PROJECT_DIR$/Numerical analysis/matrix_utility.py" afterDir="false" />
+    <list default="true" id="df246722-37a5-4fa0-8f56-03e857fd1c22" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/Numerical analysis/polynomial_interpolation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numerical analysis/polynomial_interpolation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <workItem from="1710764960268" duration="169000" />
       <workItem from="1710765138929" duration="499000" />
       <workItem from="1711967693213" duration="9012000" />
-      <workItem from="1712555165845" duration="672000" />
+      <workItem from="1712555165845" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="Added inverse check &amp; vector b">
       <option name="closed" value="true" />
@@ -275,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712555714379</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Update">
+      <option name="closed" value="true" />
+      <created>1712555971385</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1712555971385</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +304,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added inverse check &amp; vector b" />
     <MESSAGE value="Gaussian elemination" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gaussian elemination" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

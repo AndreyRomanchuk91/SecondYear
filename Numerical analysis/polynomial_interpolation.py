@@ -1,4 +1,5 @@
-import numpy as np
+from matrix_utility import *
+
 def polynomialInterpolation(table_points, x):
     matrix = [[point[0] ** i for i in range(len(table_points))] for point in table_points]  # Makes the initial matrix
 
