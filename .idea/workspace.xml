@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df246722-37a5-4fa0-8f56-03e857fd1c22" name="Changes" comment="Gaussian elemination">
-      <change afterPath="$PROJECT_DIR$/Principles of software languages/HomeProject2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numerical analysis/Jacobi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numerical analysis/LU_factorization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numerical analysis/Newton Raphson Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numerical analysis/bisection_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numerical analysis/gauss_seidel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numerical analysis/lagrange_interpolation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numerical analysis/linear_interpolation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numerical analysis/polynomial_interpolation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,39 +37,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Bisection.executor": "Run",
-    "Python.Exam2.executor": "Run",
-    "Python.Gauss_Seidel.executor": "Debug",
-    "Python.HomeProject1.executor": "Run",
-    "Python.HomeProject2.executor": "Run",
-    "Python.Jacobi&GausseSeidel.executor": "Run",
-    "Python.Jacobi.executor": "Run",
-    "Python.condition_of_linear_equations.executor": "Run",
-    "Python.gaussian_elimination.executor": "Debug",
-    "Python.inverse_matrix.executor": "Run",
-    "Python.scratch.executor": "Run",
-    "Python.scratch_1.executor": "Run",
-    "Python.scratch_2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/roman/Downloads",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Bisection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exam2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Gauss_Seidel.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.HomeProject1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HomeProject2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Jacobi&amp;GausseSeidel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Jacobi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.condition_of_linear_equations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gaussian_elimination.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.inverse_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/roman/Downloads&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\roman\Downloads" />
@@ -96,7 +103,8 @@
       <workItem from="1710750932891" duration="6726000" />
       <workItem from="1710764960268" duration="169000" />
       <workItem from="1710765138929" duration="499000" />
-      <workItem from="1711967693213" duration="5327000" />
+      <workItem from="1711967693213" duration="9012000" />
+      <workItem from="1712555165845" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="Added inverse check &amp; vector b">
       <option name="closed" value="true" />
@@ -258,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710764847432</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1711973537164</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711973537164</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +297,17 @@
     <MESSAGE value="Gaussian elemination" />
     <option name="LAST_COMMIT_MESSAGE" value="Gaussian elemination" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SecondYear$Jacobi.coverage" NAME="Jacobi Coverage Results" MODIFIED="1710678430544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
     <SUITE FILE_PATH="coverage/SecondYear$Gauss_Seidel.coverage" NAME="Gauss_Seidel Coverage Results" MODIFIED="1710678799919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
@@ -288,12 +315,12 @@
     <SUITE FILE_PATH="coverage/SecondYear$scratch_2.coverage" NAME="scratch_2 Coverage Results" MODIFIED="1710754109196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/SecondYear$Bisection.coverage" NAME="Bisection Coverage Results" MODIFIED="1710751764851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
     <SUITE FILE_PATH="coverage/SecondYear$HomeProject1.coverage" NAME="HomeProject1 Coverage Results" MODIFIED="1708975261015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Principles of software languages" />
-    <SUITE FILE_PATH="coverage/SecondYear$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1710746476516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/SecondYear$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1711983828730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/SecondYear$Jacobi_GausseSeidel.coverage" NAME="Jacobi&amp;GausseSeidel Coverage Results" MODIFIED="1710758167514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
     <SUITE FILE_PATH="coverage/SecondYear$condition_of_linear_equations.coverage" NAME="condition_of_linear_equations Coverage Results" MODIFIED="1707909479670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SecondYear$gaussian_elimination.coverage" NAME="gaussian_elimination Coverage Results" MODIFIED="1708248864244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
     <SUITE FILE_PATH="coverage/SecondYear$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1710756981757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/SecondYear$HomeProject2.coverage" NAME="HomeProject2 Coverage Results" MODIFIED="1711972786528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Principles of software languages" />
+    <SUITE FILE_PATH="coverage/SecondYear$HomeProject2.coverage" NAME="HomeProject2 Coverage Results" MODIFIED="1711973464454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Principles of software languages" />
     <SUITE FILE_PATH="coverage/SecondYear$inverse_matrix.coverage" NAME="inverse_matrix Coverage Results" MODIFIED="1710755869179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numerical analysis" />
   </component>
 </project>
