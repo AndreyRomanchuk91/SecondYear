@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df246722-37a5-4fa0-8f56-03e857fd1c22" name="Changes" comment="Gaussian elemination">
-      <change afterPath="$PROJECT_DIR$/Numerical analysis/Jacobi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerical analysis/LU_factorization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerical analysis/Newton Raphson Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerical analysis/bisection_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerical analysis/gauss_seidel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerical analysis/lagrange_interpolation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerical analysis/linear_interpolation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerical analysis/polynomial_interpolation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numerical analysis/matrix_utility.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +14,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -104,7 +97,7 @@
       <workItem from="1710764960268" duration="169000" />
       <workItem from="1710765138929" duration="499000" />
       <workItem from="1711967693213" duration="9012000" />
-      <workItem from="1712555165845" duration="306000" />
+      <workItem from="1712555165845" duration="672000" />
     </task>
     <task id="LOCAL-00001" summary="Added inverse check &amp; vector b">
       <option name="closed" value="true" />
@@ -274,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711973537164</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Gaussian elemination">
+      <option name="closed" value="true" />
+      <created>1712555714379</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1712555714379</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
