@@ -1,10 +1,6 @@
 import math
-import numpy as np
-import matplotlib.pyplot as plt
-
 import sympy as sp
 
-from sympy.utilities.lambdify import lambdify
 x = sp.symbols('x')
 def simpsons_rule(f, a, b, n):
     """
